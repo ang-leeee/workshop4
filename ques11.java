@@ -37,7 +37,7 @@ public class ques11
         }
         
         double totalTax=tax*income;
-        System.out.println("Output");
+
         System.out.println("The total annual income is: "+income);
         System.out.println("The total income tax to be paid is: "+totalTax);
     }
